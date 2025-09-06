@@ -2,6 +2,8 @@
 
 This project contains two C++ programs that convert text files with ANSI escape codes to SVG images, preserving colors and text styles.
 
+![test1](https://github.com/user-attachments/assets/afd4902f-0a2e-4d08-af40-40e3baddf17a)
+
 ## Programs
 
 ### `24bit.cpp`
